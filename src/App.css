@@ -1,0 +1,41 @@
+
+.Introducing{
+  padding-top: 50px;
+}
+
+.App {
+  text-align: center;
+  color: gray();
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+.App h1{
+  font-size: 45px;
+}
+.App h2{
+  font-size: 30px;
+}
+.App p{
+  font-size: 17px;
+}
+
+.App img{
+  border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
+  width:  240px;       /* ※縦横を同値に */
+  height: 240px
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
