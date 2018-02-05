@@ -1,6 +1,6 @@
 
 .Introducing{
-  padding-top: 50px;
+  padding-top: 40px;
 }
 
 .App {
@@ -23,7 +23,11 @@
   width:  240px;       /* ※縦横を同値に */
   height: 240px
 }
-
+.App footer{
+  padding-top: 30px;
+  padding-bottom: 25px;
+  font-size: 25px;
+}
 .App-header {
   background-color: #222;
   height: 150px;
