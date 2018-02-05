@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import FontAwesome from 'react-fontawesome';
 
+
 class App extends React.Component{
 
     render() {
@@ -34,6 +35,9 @@ class App extends React.Component{
                   <a href='https://twitter.com/ItinoseVM'><FontAwesome name='twitter' size='2x' /></a>
                   <a href='https://instagram.com/itinoser321'><FontAwesome name='instagram' size='2x' /></a>
               </h1>
+              <h1>Other links</h1>
+              <h1><a href='http://itidiary.hatenablog.com/'>HatenaBlog</a>|<a href='https://qiita.com/Itinoise'>Qiita</a></h1>
+              <footer>Copyright &copy; 2018 ItinoseSan All Rights Reserved.</footer>
           </div>
       </div>
     );
