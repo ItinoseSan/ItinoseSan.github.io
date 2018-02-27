@@ -4,7 +4,7 @@ This is my home page.
 ```
 npm install
 ```
-start 
+start local server
 ```
 npm start
 ```
